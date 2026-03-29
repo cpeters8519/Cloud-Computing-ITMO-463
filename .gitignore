@@ -14,3 +14,6 @@ crash.log
 
 # For built boxes
 *.box
+.vagrant/
+module-02-results.txt
+*.log
